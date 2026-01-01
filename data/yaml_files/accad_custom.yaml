@@ -1,0 +1,2017 @@
+motions:
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C8___run_backwards_to_stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 0
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.008333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C24___quick_sidestep_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 1
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.0083333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C4___run_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 2
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.85
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C26___run_to_crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 3
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3666666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C19___run_to_jump_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 4
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.55
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C17___run_change_direction_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 5
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.05
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C23___put_down_box_to_run_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 6
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.225
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C25___quick_sidestep_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 7
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.0166666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C15___run_turn_right_45_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 8
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1333333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C13___run_turn_left_135_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 9
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0833333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C4___run_to_walk_a_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 10
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.85
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C1___stand_to_run_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 11
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.091666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C3___run_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 12
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.716666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C14___run_turn_right_90_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 13
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.175
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C9___run_backwards_turn_run_forward_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 14
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.5833333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C6___stand_to_run_backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 15
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.816666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C5___walk_to_run_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 16
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.566666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C7___run_backwards_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 17
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.216666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C16___run_turn_right_135_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 18
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.158333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C20___run_to_pickup_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 19
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.908333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C12___run_turn_left_45_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 20
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.2
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C11___run_turn_left_90_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 21
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.816666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Running_c3d/C18___run_to_hop_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 22
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.516666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/s001/EricCamper04_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 23
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 16.141666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Gestures_c3d/D2___Wait_1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 24
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 38.53333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Gestures_c3d/D1___Urban_1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 25
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.358333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Gestures_c3d/D3___Conversation_Gestures_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 26
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 50.71666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Gestures_c3d/D5___Random_Stuff_2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 27
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 16.633333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Gestures_c3d/D6__CartWheel_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 28
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.766666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Gestures_c3d/Female1_Subj_Calibration_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 29
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A11___crawl_forward_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 30
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 19.991666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A6__lift_box_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 31
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.075
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A15___skip_to_stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 32
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.258333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A10___lie_to_crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 33
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.366666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A5___pick_up_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 34
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.283333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A2___Sway_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 35
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.95
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A3___Swing_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 36
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 14.508333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A7___crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 37
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.066666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A2___Sway_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 38
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 12.025
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A8___crouch_to_lie_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 39
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.441666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A3___Swing_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 40
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.141666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A12___crawl_backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 41
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 22.058333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A1___Stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 42
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A6___lift_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 43
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.383333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A14___stand_to_skip_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 44
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.15
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A4___look_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 45
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 21.275
+- file: /home/sangjunpark/Desktop/ACCAD/Female1General_c3d/A9___lie_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 46
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.883333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/s008/Run1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 47
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.8083333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B17___Walk_2_hop_2_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 48
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.158333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Male1_Cal_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 49
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B22___Side_step_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 50
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.625
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B10___Walk_turn_left_45_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 51
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.425
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B21___Put_Down_Box_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 52
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.958333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B15___Walk_turn_around_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 53
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.391666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B16___Walk_turn_change_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 54
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 12.116666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B4___Stand_to_Walk_Back_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 55
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 12.958333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B23___Side_step_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 56
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.5833333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Walking_c3d/Walk_B13___Walk_turn_right_45_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 57
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.3
+- file: /home/sangjunpark/Desktop/ACCAD/s007/QkWalk1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 58
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.558333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A10____Lie_Down_to_Crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 59
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.525
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A3___Swing_Arms_While_Stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 60
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.733333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A5___Pick_Up_Box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 61
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.7
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A4___Look_Around_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 62
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 15.941666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A7___Crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 63
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.975
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A6___Lift_Box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 64
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.933333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A2___Sway_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 65
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.033333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A9_____Lie__forward__t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 66
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.275
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A8___Crouch_to_Lie_Down_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 67
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.891666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A1___Stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 68
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.208333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A11_____Military_Crawl_Forward_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 69
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.616666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A2___Sway_t3_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 70
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.716666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A9_____Lie__forward__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 71
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3583333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A8____Crourch_to_Lie__forward__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 72
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.6
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A2___Sway_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 73
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.366666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A12_____Military_Crawl_Backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 74
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 16.45
+- file: /home/sangjunpark/Desktop/ACCAD/Male1General_c3d/General_A9____Lie_Down_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 75
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.625
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Running_c3d/Run_C24___quick_side_step_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 76
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.966666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male1Running_c3d/Run_C25___quick_side_step_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 77
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.316666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C20____run_to_jump_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 78
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.0
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C4___Run_to_walk1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 79
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.533333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C16____run_turn_right___135__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 80
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.341666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C2___Run_to_stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 81
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.325
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C14____run_turn_right___90__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 82
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.258333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C9____run_backwards_turn_run_forward_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 83
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.2916666666666665
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C3___Run_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 84
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.6916666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C27___crouch_to_run1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 85
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.216666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C24____side_step_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 86
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.966666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C7____run_backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 87
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.091666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C11____run_turn_left__90__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 88
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.316666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C15____run_turn_right___45__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 89
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.1166666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C21_s2____run_to_pick_up_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 90
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.558333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C6___stand_to_run_backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 91
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.483333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C13____run_turn_left__135__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 92
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8666666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C26____run_to_crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 93
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C5___walk_to_run_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 94
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.416666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C10____run_backwards_stop_run_forward_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 95
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.083333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C22____run_with_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 96
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.9833333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C8____run_backwards_to_stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 97
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.408333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C21____run_to_pick_up_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 98
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.816666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C25____side_step_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 99
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.291666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Running_c3d/C19____run_to_hop_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 100
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.208333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G3___Sidekick_leading_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 101
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.9833333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G18___push_kick_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 102
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8916666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G13___cresent_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 103
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.6
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G12___cresent_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 104
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7583333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G17___push_kick_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 105
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.55
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G5____back_kick_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 106
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.283333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G8____roundhouse_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 107
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.558333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G19___reverse_spin_cresent_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 108
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2416666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G3___front_kick_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 109
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.308333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G7____capoera_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 110
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.3583333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G11___roundhouse_leading_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 111
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.3333333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/male2_Subject_Cal_2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 112
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.175
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G10___roundhouse_leading_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 113
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.6166666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G14___roundhouse_body_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 114
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.725
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G6____axe_kick_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 115
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8916666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G9____roundhouse_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 116
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.7916666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G2___Sidekick_leading_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 117
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7916666666666665
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G16___double_kick_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 118
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.966666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G4__spinning_back_kick_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 119
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7416666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G20____reverse_spin_cresent_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 120
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.85
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G9___roundhouse_right_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 121
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.816666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G15___roundhouse_body_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 122
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.941666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsKicks_c3d/G19___reverse_spin_cresent_left_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 123
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1666666666666665
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D9___victory_1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 124
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 13.208333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D11___ready_to_taunt_one_to_ready_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 125
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.383333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D16___switch_stance_and_bounce_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 126
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.9
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D13__crouch_to_ready_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 127
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.7583333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D7___walk_to_bow_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 128
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.075
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D4___ready_to_relax_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 129
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.091666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D1___stand_to_ready_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 130
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.95
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D9___t2___male2_blanks_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 131
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.825
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D10___victory_2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 132
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.641666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D12___ready_to_taunt_two_to_ready_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 133
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.383333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D8___bow_to_ready_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 134
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.291666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D3___run_to_ready_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 135
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.6416666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D5___ready_to_walk_away_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 136
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.458333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D14__ready_to_crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 137
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.3333333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D9___warm_up_to_ready_to_warm_up_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 138
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.675
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D2___walk_to_ready_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 139
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.383333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsStances_c3d/D15___switch_stance_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 140
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.05
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A1__Stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 141
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.808333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A5__Pick_up_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 142
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.983333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/male2_Calibration_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 143
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A7__Crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 144
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.416666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A11__Crawl_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 145
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 13.308333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A9__Lie_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 146
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.1166666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A10__Lie_to_crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 147
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.741666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A2__Sway_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 148
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.666666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A6__Box_lift_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 149
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.091666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A12__Crawl_Backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 150
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 17.008333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A3__Swing_arms_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 151
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.658333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A8__Crouch_to_Lie_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 152
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.733333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2General_c3d/A4__Look_Around_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 153
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 16.05
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B18____Walk_to_leap_to_walk_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 154
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.716666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B4___Stand_to_Walk_backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 155
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.608333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B27____skip_to_walk_a_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 156
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.566666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B9____Walk_turn_left_90_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 157
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.033333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B13____Walk_turn_right_90_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 158
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.616666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B17____Walk_to_hop_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 159
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.491666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B15____Walk_turn_around_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 160
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.508333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B10____Walk_turn_left_45_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 161
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.983333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B14____Walk_turn_right_45_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 162
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.091666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B21____put_down_box_to_walk_a_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 163
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.55
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B14____Walk_turn_right_45_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 164
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.8
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B21____put_down_box_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 165
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.55
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B5____Walk_backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 166
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.125
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B17____Walk_to_hop_to_walk_a_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 167
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.491666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B26____walk_to_skip_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 168
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.875
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B18____Walk_to_leap_to_walk_t3_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 169
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.125
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B20____Walk_with_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 170
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.441666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B22____side_step_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 171
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.466666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B24____walk_to_crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 172
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.108333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B11____Walk_turn_left_135_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 173
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.491666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B18____Walk_to_leap_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 174
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8666666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B19____Walk_to_pickup_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 175
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.675
+- file: /home/sangjunpark/Desktop/ACCAD/Male2Walking_c3d/B23____side_step_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 176
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.0
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E15___block_left_middle_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 177
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.316666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E1___Turn_around_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 178
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 14.35
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E11___block_left_high_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 179
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.691666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E17___block_middle_high_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 180
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.5416666666666665
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E9___side_step_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 181
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.275
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E6___quick_retreat_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 182
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.358333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E10___side_step_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 183
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.925
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E18___block_middle_low_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 184
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.9833333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E13___block_right_high_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 185
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.091666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E12___block_left_low_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 186
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.758333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E22___duck_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 187
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.533333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E3___advance_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 188
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.358333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E19___dodge_left_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 189
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.566666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E7___super_fast_advance_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 190
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.241666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E14___block_right_low_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 191
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.941666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E4___quick_advance_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 192
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.7333333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E16___block_right_middle_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 193
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.5
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E8___bounce_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 194
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.55
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E20___dodge_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 195
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7916666666666665
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E2___Turn_around_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 196
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 13.083333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E5___retreat_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 197
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.716666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E21___duck_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 198
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.7333333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/MartialArtsWalksTurns_c3d/E19___dodge_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 199
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.225
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E14___body_cross_left_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 200
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.175
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E13___body_cross_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 201
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.9083333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E2____Jab_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 202
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.8333333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E16___body_jab_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 203
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.5416666666666665
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E11___body_hook_right_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 204
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.45
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E8___uppercut_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 205
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.566666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E12___backfist_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 206
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.441666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E6____hook_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 207
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.5833333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E3____cross_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 208
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.2666666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E14___body_cross_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 209
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.45
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E15___body_jab_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 210
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 1.7166666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E7___uppercut_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 211
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.591666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E11___backfist_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 212
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.341666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E9___body_hook_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 213
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.75
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E4____cross_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 214
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.45
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E10___body_hook_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 215
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.4916666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E5____hook_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 216
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.725
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsPunches_c3d/E1____Jab_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 217
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 3.325
+- file: /home/sangjunpark/Desktop/ACCAD/s011/walkdog_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 218
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 16.291666666666668
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsExtended_c3d/Extended_1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 219
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 20.066666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsExtended_c3d/Form_1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 220
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 18.516666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsExtended_c3d/Extended_3_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 221
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 53.00833333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Male2MartialArtsExtended_c3d/Extended_2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 222
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 17.733333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/s009/Sprint1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 223
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 2.2083333333333335
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B9___walk_turn_left__90__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 224
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.1
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B17___walk_to_hop_to_walk1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 225
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.283333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B16___walk_turn_change_direction_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 226
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.025
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B6___walk_backwards_to_stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 227
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.175
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B5___walk_backwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 228
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.533333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B14___walk_turn_right__135__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 229
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.966666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B1___stand_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 230
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.225
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B18___walk_to_leap_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 231
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.691666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B24___walk_to_crouch_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 232
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.075
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B12___walk_turn_right__90__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 233
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.758333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B2___walk_to_stand_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 234
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.683333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B22___side_step_left_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 235
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.191666666666666
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B11___walk_turn_left__135__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 236
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.358333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B19___walk_to_pick_up_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 237
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.916666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B7___walk_backwards_turn_forwards_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 238
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.658333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B3___walk1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 239
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.625
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B2___walk_to_stand_t2_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 240
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.9
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B15___walk_turn_around__same_direction__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 241
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.608333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B13___walk_turn_right__45__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 242
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.308333333333334
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B23___side_step_right_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 243
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 8.325
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B10___walk_turn_left__45__stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 244
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.916666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B20___walk_with_box_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 245
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 4.283333333333333
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B21_s2___put_down_box_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 246
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 11.475
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B4___stand_to_walk_back_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 247
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 7.55
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B21___put_down_box_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 248
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 9.425
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B25___crouch_to_walk1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 249
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 5.916666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B21_s3___put_down_box_to_walk_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 250
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 10.741666666666667
+- file: /home/sangjunpark/Desktop/ACCAD/Female1Walking_c3d/B27__skip_to_walk1_stageii.motion
+  fps: 120.0
+  weight: 1.0
+  idx: 251
+  sub_motions:
+  - timings:
+      start: 0.0
+      end: 6.733333333333333

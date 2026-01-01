@@ -667,6 +667,7 @@ def main():
                 motion_path, args.source_type, subsample_factor, TARGET_RAW_FRAMES
             )
 
+            start_time = time.time()
             Ts_world_root, joints = solve_retargeting(
                 robot=robot,
                 robot_coll=robot_coll,
@@ -679,6 +680,10 @@ def main():
                 weights=weights_dict,
                 subsample_factor=subsample_factor,
             )
+            end_time = time.time()
+            duration = end_time - start_time
+            fps = TARGET_RAW_FRAMES / duration
+            print(f"Solved {TARGET_RAW_FRAMES} frames in {duration:.2f}s. FPS: {fps:.2f}")
 
             # Save results, sliced to the actual motion length
             results_to_save = {
